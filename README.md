@@ -284,6 +284,7 @@ Row | Step | Description | Completed
 8 | 5-2 | Link to `commit #3 from CLI` |
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
+<!-- I accidentally commited & pushed my changes before I could push them through the CLI so I'm adding this comment so I can have something to save. -->
 
 
 
