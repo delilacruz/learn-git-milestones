@@ -278,7 +278,7 @@ Row | Step | Description | Completed
 2 | 3-2 | Link to `commit #1 from Github.com`| [commit #1 from Github.com](https://github.com/delilacruz/learn-git-milestones/commit/976cdfe91ccc611e8a152fe9cc8d5c0451b84054)
 3 | 3-3 | Link to markdown tables docs | ["Organizing information with tables" from GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
 4 | 3-4 | What does `log` do? | `git log` shows you the commit history of your file.
-5 | 4-1 | 2nd Favorite emoji |
+5 | 4-1 | 2nd Favorite emoji | 🙌
 6 | 4-2 | Link to `commit #2 from Github Desktop` |
 7 | 5-1 | Full path to your working directory |
 8 | 5-2 | Link to `commit #3 from CLI` |
