@@ -281,7 +281,7 @@ Row | Step | Description | Completed
 5 | 4-1 | 2nd Favorite emoji | 🙌
 6 | 4-2 | Link to `commit #2 from Github Desktop` | [commit #2 from Github Desktop](https://github.com/delilacruz/learn-git-milestones/commit/05ee04c6c7a33b2c46ac92bb29731186763c4fb2)
 7 | 5-1 | Full path to your working directory | /Users/delilacruz/Documents/GitHub/learn-git-milestones
-8 | 5-2 | Link to `commit #3 from CLI` |
+8 | 5-2 | Link to `commit #3 from CLI` | [commit #3 from CLI](https://github.com/delilacruz/learn-git-milestones/commit/eaafcea0a6f1bee6393f782f317d273e625f1b09)
 9 | 6-1 | Link to `first-website` github.com repo page |
 10 | 7-1 | Link to `first-website` github.io "project site" |
 <!-- I accidentally commited & pushed my changes before I could push them through the CLI so I'm adding this comment so I can have something to save. -->
